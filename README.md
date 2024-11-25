@@ -1,0 +1,1 @@
+if you get a virus detection, just allow it. the reason for said detection, is because the game uses a saving method of creating files on your pc's AppData folder (basically your pc thinks its a trojan horse, even though it isnt.)
